@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YanfanChen
-- 👀 I’m interested in ...
-- 🌱 I’m currently an undergraduate student studing mathematics with computer science at GTIIT
+- 👀 I’m interested in the mathematical aspect of machine learning
+- 🌱 I’m currently a master student in Applied Mathematics at EPFL
   
 
